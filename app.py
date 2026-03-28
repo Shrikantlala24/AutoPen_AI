@@ -17,10 +17,6 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-            
-.stApp {
-background-color: #f0f2f6; /* Replace with your desired color */
-}
 :root {
     --bg-main: #0b1020;
     --bg-panel: #121b34;
